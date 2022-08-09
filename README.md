@@ -106,16 +106,3 @@ Contributions are welcomed, But Kanging and editing a few lines wont make you a 
 Fork the repo, Do not Import code.
 
 ```
-
-#### Support
-
-Connect Me On [Telegram](https://telegram.dog/subinps_bot)
-
-
-```
-LEGAL DISCLAIMER
-
-Developer or his team won't be liable for any loss caused by MISUSE of this Script.
-This Bot is Indended to be used only for Educational Purposes.
-
-```
